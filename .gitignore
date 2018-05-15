@@ -1,0 +1,19 @@
+# Bower Components
+bower_components
+
+# IDEA
+.idea
+*.iml
+
+# Dependency directory
+node_modules
+
+npm-debug.log
+
+# BuildFile
+build/
+
+#test
+coverage/
+
+package-lock.json
